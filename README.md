@@ -1,4 +1,4 @@
-# Potential datasets for Tactile Internet applications
+# Potential datasets for Tactile Internet Applications
 
 Dataset
 TNSM paper(dataset)
