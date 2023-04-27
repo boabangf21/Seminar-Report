@@ -17,4 +17,4 @@ Link-https://github.com/MathworksProjects/LTE-WiFi-Coexistence
  
  Gao, Yixin et al. “JHU-ISI Gesture and Skill Assessment Working Set ( JIGSAWS ) : A Surgical Activity Dataset for Human Motion Modeling.” (2014).
  
- LInk-https://cirl.lcsr.jhu.edu/wp-content/uploads/2015/11/JIGSAWS.pdf
+ LInk-https://paperswithcode.com/dataset/jigsaws
