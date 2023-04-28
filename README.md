@@ -1,14 +1,13 @@
-# Potential Datasets for Tactile Internet Applications
+# Potential Data for Tactile Internet Applications
 
-Dataset
-TNSM paper(dataset)
+Data
 
 F. Aurzada, M. Lévesque, M. Maier and M. Reisslein, "FiWi Access Networks Based on Next-Generation PON and Gigabit-Class WLAN Technologies: A Capacity and Delay Analysis," in IEEE/ACM Transactions on Networking, vol. 22, no. 4, pp. 1176-1189, Aug. 2014
 
 C. Bocanegra, T. E. Kennouche, Z. Li , L. Favalli, M. Di Felice and K. Chowdhury, "E-Fi: Evasive Wi-Fi Measures for Surviving LTE within 5GHz Unlicensed Band," in IEEE Transactions on Mobile Computing
 Link-https://github.com/MathworksProjects/LTE-WiFi-Coexistence
 
- Seminar Report dataset
+ Seminar Report data
  F. Krasniqi, J. Elias, J. Leguay and A. E. C. Redondi, "End-to-end Delay Prediction Based on Traffic Matrix Sampling," IEEE INFOCOM 2020 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), Toronto, ON, Canada, 2020, pp. 774-779,
  
  Link-https://filipkrasniqi.github.io/QoSMLpresentation/.
