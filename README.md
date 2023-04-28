@@ -1,4 +1,4 @@
-The diagonal matrix H in the main paper is V in the main file
+The diagonal matrix H in the main paper is V in the main.ipynb
 
 # Potential Data for Tactile Internet Applications
 
