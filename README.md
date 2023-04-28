@@ -1,3 +1,5 @@
+The diagonal matrix H in the main paper is V in the main file
+
 # Potential Data for Tactile Internet Applications
 
 Data
@@ -17,3 +19,5 @@ Link-https://github.com/MathworksProjects/LTE-WiFi-Coexistence
  Gao, Yixin et al. “JHU-ISI Gesture and Skill Assessment Working Set ( JIGSAWS ) : A Surgical Activity Dataset for Human Motion Modeling.” (2014).
  
  LInk-https://paperswithcode.com/dataset/jigsaws
+ 
+ 
